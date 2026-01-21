@@ -93,6 +93,7 @@ The final feature set is chosen by taking the intersection of Ridge and Random F
 - Flexibility from non‑linear models
   
 This hybrid approach ensures the selected features are both statistically reliable and contextually meaningful.
+![Common Features selected by both Ridge and Random Forest](assets/Common%20Features%20selected%20by%20both%20Ridge%20and%20Random%20Forest.png)
 
 ### **Conclusion**
 This project demonstrates a complete, production‑ready ML pipeline for credit‑risk modeling. It includes:
